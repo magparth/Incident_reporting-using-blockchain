@@ -1,7 +1,7 @@
 # Incident_reporting-using-blockchain
 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project aims to build a decentralised incicent management system using hardhat on sepolia network.
 
 Try running some of the following tasks:
 
