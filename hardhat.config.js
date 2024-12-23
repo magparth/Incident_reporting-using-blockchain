@@ -1,6 +1,5 @@
 require("@nomiclabs/hardhat-ethers");
 require("dotenv").config(); // Add this line
-
 module.exports = {
     solidity: "0.8.0",
     networks: {
